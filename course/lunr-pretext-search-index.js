@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework 01",
-  "body": " Homework 01    Instructions: Complete all the exercises below and submit your work by the due date.      This is the first homework exercise. $\\frac{x = \\int_1^2 }{5x^2}$     "
+  "body": " Homework 01    Instructions: Complete all the exercises below and submit your work by the due date.      This is the first homework exercise.       "
 },
 {
   "id": "homework-2-3-1",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  This is the first homework exercise. $\\frac{x = \\int_1^2 }{5x^2}$   "
+  "body": "  This is the first homework exercise.     "
 }
 ]
 
