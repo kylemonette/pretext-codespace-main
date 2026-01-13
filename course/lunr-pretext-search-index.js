@@ -64,13 +64,22 @@ var ptx_lunr_docs = [
   "body": " Handouts    "
 },
 {
-  "id": "homework",
+  "id": "homework-2",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "homework-2.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "Homework 01",
+  "body": " Homework 01    Instructions: Complete all the exercises below and submit your work by the due date.      This is the first homework exercise. $\\frac{x = \\int_1^2 }{5x^2}$     "
+},
+{
+  "id": "homework-2-3-1",
+  "level": "2",
+  "url": "homework-2.html#homework-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  This is the first homework exercise. $\\frac{x = \\int_1^2 }{5x^2}$   "
 }
 ]
 
