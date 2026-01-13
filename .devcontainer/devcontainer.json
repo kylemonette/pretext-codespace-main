@@ -79,7 +79,8 @@
         "CodeChat.codechat",
         "streetsidesoftware.code-spell-checker",
         "alpinebuster.vscode-latex-table-editor",
-        "mathematic.vscode-pdf"
+        "mathematic.vscode-pdf",
+        "formulahendry.code-runner"
       ]
     }
   }
