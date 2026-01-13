@@ -12,7 +12,11 @@
     <exercise>
       <statement>
         <p>
-          This is the first homework exercise. $\frac{x = \int_1^2 }{5x^2}$
+          This is the first homework exercise. <m>\frac{x = \int_1^2 }{5x^2}</m>
+
+        <me>
+						A \times B = \{(x,y) \st x \in A \wedge y \in B\}
+					</me>
         </p>
       </statement>
     </exercise>
