@@ -7,8 +7,8 @@
   <bibinfo>
     <author>
       <personname>Instructor Lastname</personname>
-      <department>Mathematical Sciences</department>
-      <institution>University of Templates</institution>
+      <department>Department of Mathematics and Applied Mathematical Sciences</department>
+      <institution>University of Rhode Island</institution>
     </author>
     <date>
       Last Updated: <today />
@@ -19,6 +19,14 @@
   <titlepage>
     <titlepage-items/>
   </titlepage>
+
+  <acknowledgement>
+    <p>This is the acknowledgement section.</p>
+  </acknowledgement>
+
+  <preface>
+    <p>This is the preface here.</p>
+  </preface>
 
 </frontmatter>
 
